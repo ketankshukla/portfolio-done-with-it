@@ -18,7 +18,7 @@ container: {
 texter: {
   fontSize:30,
   fontWeight: 'bold',
-  borderColor: 'yellow', borderWidth: 4, padding: 20, color: 'black',
+  borderColor: 'yellow', borderWidth: 4, padding: 20, color: 'pink',
 }
 })
 
